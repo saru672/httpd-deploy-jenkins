@@ -11,7 +11,7 @@ pipeline {
 		}
 		stage ('2023Q2') {
 			steps {
-			echo "This is my 2023Q2 branch"
+			echo "This is my 2023Q2 branch."
 			}
 		}
 	}
