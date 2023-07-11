@@ -1,7 +1,7 @@
 // This is my 1st jenkins file
 pipeline {
 	agent {
-	label "built-in"
+	label "slave-1"
 	}
 	stages {
 		stage ('deploy-index') {
