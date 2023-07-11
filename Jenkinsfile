@@ -1,4 +1,3 @@
-// This is my 1st jenkins file
 pipeline {
 	agent {
 	label "slave-1"
